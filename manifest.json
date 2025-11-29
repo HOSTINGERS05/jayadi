@@ -1,0 +1,22 @@
+{
+  "name": "ChemiConnect: 100 Levels",
+  "short_name": "ChemiConnect",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Game Onet Unsur Kimia dengan 100 Level yang menantang.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3322/3322064.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3322/3322064.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
